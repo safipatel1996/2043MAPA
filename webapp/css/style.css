@@ -1,0 +1,8 @@
+header.masthead {
+    background-image: url(/img/logoht.png) !important;
+}
+
+.img-center {
+    display: block;
+    margin: auto;
+}
