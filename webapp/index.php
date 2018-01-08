@@ -152,7 +152,7 @@
   </div>
     </section>
 
-    <section class="p-0" id="portfolio">
+    <section class="p-0">
       <div class="container-fluid p-0">
         <div class="row no-gutters popup-gallery">
           <div class="col-lg-4 col-sm-6">
@@ -164,29 +164,30 @@
                     Category
                   </div>
                   <div class="project-name">
-                    Project Name
+                    Copyright
                   </div>
                 </div>
               </div>
             </a>
           </div>
           <div class="col-lg-4 col-sm-6">
-            <a class="portfolio-box" href="img/portfolio/fullsize/2.jpg">
+            <a class="portfolio-box" href="debates.php">
               <img class="img-fluid" src="img/portfolio/thumbnails/2.jpg" alt="">
-              <div class="portfolio-box-caption">
+                <div class="portfolio-box-caption">
                 <div class="portfolio-box-caption-content">
                   <div class="project-category text-faded">
                     Category
                   </div>
                   <div class="project-name">
-                    Project Name
+                    Feminisim 
                   </div>
                 </div>
               </div>
+              
             </a>
           </div>
           <div class="col-lg-4 col-sm-6">
-            <a class="portfolio-box" href="img/portfolio/fullsize/3.jpg">
+            <a class="portfolio-box" href="debates.php">
               <img class="img-fluid" src="img/portfolio/thumbnails/3.jpg" alt="">
               <div class="portfolio-box-caption">
                 <div class="portfolio-box-caption-content">
@@ -194,14 +195,14 @@
                     Category
                   </div>
                   <div class="project-name">
-                    Project Name
+                    Knife Crime
                   </div>
                 </div>
               </div>
             </a>
           </div>
           <div class="col-lg-4 col-sm-6">
-            <a class="portfolio-box" href="img/portfolio/fullsize/4.jpg">
+            <a class="portfolio-box" href="debates.php">
               <img class="img-fluid" src="img/portfolio/thumbnails/4.jpg" alt="">
               <div class="portfolio-box-caption">
                 <div class="portfolio-box-caption-content">
@@ -209,14 +210,14 @@
                     Category
                   </div>
                   <div class="project-name">
-                    Project Name
+                    LGBT
                   </div>
                 </div>
               </div>
             </a>
           </div>
           <div class="col-lg-4 col-sm-6">
-            <a class="portfolio-box" href="img/portfolio/fullsize/5.jpg">
+            <a class="portfolio-box" href="debates.php">
               <img class="img-fluid" src="img/portfolio/thumbnails/5.jpg" alt="">
               <div class="portfolio-box-caption">
                 <div class="portfolio-box-caption-content">
@@ -224,14 +225,14 @@
                     Category
                   </div>
                   <div class="project-name">
-                    Project Name
+                    Peace and War
                   </div>
                 </div>
               </div>
             </a>
           </div>
           <div class="col-lg-4 col-sm-6">
-            <a class="portfolio-box" href="img/portfolio/fullsize/6.jpg">
+            <a class="portfolio-box" href="debates.php">
               <img class="img-fluid" src="img/portfolio/thumbnails/6.jpg" alt="">
               <div class="portfolio-box-caption">
                 <div class="portfolio-box-caption-content">
@@ -239,7 +240,7 @@
                     Category
                   </div>
                   <div class="project-name">
-                    Project Name
+                    Balance of Power
                   </div>
                 </div>
               </div>
@@ -283,7 +284,7 @@
     <!-- Plugin JavaScript -->
     <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
     <script src="vendor/scrollreveal/scrollreveal.min.js"></script>
-    <script src="vendor/magnific-popup/jquery.magnific-popup.min.js"></script>
+    <!--<script src="vendor/magnific-popup/jquery.magnific-popup.min.js"></script>-->
 
     <!-- Custom scripts for this template -->
     <script src="js/creative.min.js"></script>

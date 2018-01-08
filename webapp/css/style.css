@@ -1,5 +1,5 @@
 header.masthead {
-    background-image: url(/img/logoht.png) !important;
+    background-image: url("../img/logoht.png") !important;
 }
 
 .img-center {
