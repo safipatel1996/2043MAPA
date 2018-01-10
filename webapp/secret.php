@@ -98,9 +98,14 @@
     <section class="bg-light text-black">
       <div>
           
-          //content here
+
+              <div class="embed-responsive embed-responsive-16by9">
+    <iframe class="embed-responsive-item" src="img/LiveDebate.mp4"></iframe>
+  </div>
+                <hr>
+    </div>
           
-      </div>
+   
     </section>
 
     <section id="contact">

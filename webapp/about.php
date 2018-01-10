@@ -154,7 +154,7 @@
                     <h3>Lucky
                         <small>Team assistant</small>
                     </h3>
-                    <p> Lucky he has done literally fuck all, hardly turns up and when he does he caues stress and chaos</p>
+                    <p> Hello my name is Luxsaan. Am currently studying at Coventry University, doing my second year of Digital Media, plus I run a photography business in my spare time. Doing a debate show was a great idea, as this enabled us to have different views and opinions on the social issues we all face in our everyday life. </p>
             
                 </div>
             </div>

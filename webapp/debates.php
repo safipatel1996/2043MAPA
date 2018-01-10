@@ -159,9 +159,9 @@ People are always fighting, with wars around the world seeming to pop up every n
 
 </p>
   <div class="row">
-            <div class="col-md-12">
-                <img class="img-center" width="50%" height="365" src="img/peace-529380_640.jpg" alt="Peace">
-            </div>
+               <div class="embed-responsive embed-responsive-16by9">
+    <iframe class="embed-responsive-item" src="img/safi1.mp4"></iframe>
+  </div>
                 <hr>
     </div>
             
